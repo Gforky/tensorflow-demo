@@ -1,0 +1,1 @@
+python train.py --hidden_size "16,8,3" --batch_size 8 --epoch_num -1 --max_steps=20000 --learning_rate 1e-5 --data_files "iris_train.csv" --model_dir "iris_model"

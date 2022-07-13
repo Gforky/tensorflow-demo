@@ -1,0 +1,1 @@
+python export.py --hidden_size "16,8,3" --model_dir "iris_model"
